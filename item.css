@@ -1,0 +1,16 @@
+#my-list li{
+padding: 5px 26px;
+border: 2px solid black;
+margin: 5px;
+list-style: none;
+justify-content: space-between;
+display: flex;
+}
+/* #my-list{
+    display: flex;
+} */
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
